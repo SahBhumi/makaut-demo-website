@@ -106,17 +106,17 @@
 .box-1 li{
     position: absolute;
     left: 10%;
-    top: 65%;
+    top: 60%;
 }
 .box-2 li{
     position: absolute;
     left: 38%;
-    top: 65%;
+    top: 60%;
 }
 .box-3 li{
     position: absolute;
     left: 66%;
-    top: 65%;
+    top: 60%;
 }
 .box-1 ,.box-2 ,.box-3{
     background-color: rgb(243, 240, 240);
@@ -558,17 +558,7 @@
      font-family: sans-serif;
      font-weight: 200;
  }
- /*
- .container-3 .scroll .progress-bar{
-     background: linear-gradient(to right,rgb(54,54,54),white);
-     height: 6px;
-     left: 20px;
-     top: 402px;
-     position: absolute;
-     border-radius: 10px;
-     transform: rotate(960deg);
-     border: 0.2px solid black;
- }*/
+ 
  
  .container-3 .list ul{
      overflow: auto;
@@ -578,6 +568,8 @@
  .container-3  .list ul ::-webkit-scrollbar-thumb{
      background-color: blanchedalmond;
  }
+
+
 .foot{
     background-color: rgb(35, 137, 168);
     width: 100vw;
